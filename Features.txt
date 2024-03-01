@@ -1,0 +1,4 @@
+Fake api from a self made .json
+you have to use npm run server to run the api
+the adress of API is:
+http://localhost:9000/questions
